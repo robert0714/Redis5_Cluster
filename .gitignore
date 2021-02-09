@@ -1,0 +1,5 @@
+appendonly.aof
+dump.rdb
+redis-5*
+*.tar.gz
+
